@@ -1,0 +1,1547 @@
+Build the Ultimate Modern AI Engineer Portfolio for Nkosinathi Ngwenya
+
+You are an elite product designer, senior frontend engineer, AI product engineer, UX designer, and technical storyteller.
+
+Your task is to completely redesign and upgrade my existing portfolio into an exceptional, premium, modern AI Engineer portfolio.
+
+This must NOT look like a generic student portfolio, template, resume website, or basic developer portfolio.
+
+It should feel like a high-end AI product / technical personal operating system.
+
+The experience should communicate:
+
+"This person is an AI Engineer who builds real intelligent systems."
+
+The website must be visually sophisticated, extremely responsive, fast, accessible, polished, interactive, and professional.
+
+1. CORE PERSONAL BRAND
+
+Name:
+
+Nkosinathi Ngwenya
+
+Primary professional identity:
+
+AI Engineer
+
+Supporting identity:
+
+Computer Science student at the University of Pretoria, Founder & Developer, Full-Stack Developer, AI Engineer, and builder of intelligent systems.
+
+Do NOT position me primarily as:
+
+"Computer Science Student"
+
+That is part of my background, but my primary professional identity is:
+
+AI Engineer
+
+Suggested hero positioning:
+
+Building intelligent systems that solve real problems.
+
+Supporting message:
+
+AI Engineer building intelligent applications, machine learning systems, AI-powered products, data systems, automation, cybersecurity-aware solutions, and full-stack software.
+
+Current role:
+
+AI Engineer — 12LINKS
+February 2026 — Present
+
+Previous:
+
+Full-Stack Developer — Somahorse AI
+November 2025 — February 2026
+
+Founder:
+
+Founder & Developer — DevThrive
+2025 — Present
+
+Education:
+
+BSc Computer Science — University of Pretoria
+2025 — Present
+
+2. DESIGN DIRECTION
+
+Create a premium, modern visual identity.
+
+Think:
+
+sophisticated AI laboratory
+premium SaaS product
+modern engineering dashboard
+high-end technology company
+minimal but powerful
+editorial typography
+excellent spacing
+subtle motion
+strong information hierarchy
+dark/light theme support
+beautiful responsive layouts
+refined micro-interactions
+
+Avoid:
+
+generic portfolio templates
+excessive neon
+cheesy AI graphics
+excessive gradients
+random 3D objects
+overuse of glassmorphism
+unnecessary particles
+distracting animations
+giant walls of text
+skill-bar clichés
+fake statistics
+fake testimonials
+fake achievements
+fake project metrics
+
+The design should feel confident rather than flashy.
+
+Use motion to communicate state, hierarchy and interaction — not decoration.
+
+3. HERO EXPERIENCE
+
+Create an exceptional first-screen experience.
+
+Show:
+
+NKOSINATHI NGWENYA
+
+AI ENGINEER
+
+Headline:
+
+Building intelligent systems that solve real problems.
+
+Supporting text:
+
+AI Engineer building intelligent applications, AI systems, machine learning solutions, data-driven products, cybersecurity-aware software, and full-stack experiences.
+
+Show current status:
+
+● AI Engineer @ 12LINKS
+
+And:
+
+BSc Computer Science @ University of Pretoria
+
+Primary actions:
+
+Explore My Work
+
+Ask My AI
+
+Secondary:
+
+GitHub
+
+LinkedIn
+
+The hero should immediately communicate who I am, what I do, and why the visitor should continue.
+
+Add subtle dynamic elements such as:
+
+current role
+currently building indicator
+system status
+subtle animated background
+intelligent hover interactions
+
+But keep it professional.
+
+4. AI PORTFOLIO ASSISTANT
+
+Keep the AI assistant as one of the major features.
+
+It should NOT feel like a simple chatbot widget.
+
+Name it:
+
+Nkosinathi AI
+
+or
+
+Ask Nkosinathi's AI
+
+The assistant should answer questions about:
+
+experience
+projects
+education
+skills
+AI engineering capabilities
+career progression
+certifications
+engineering philosophy
+current work
+availability
+project architecture
+technical interests
+
+Provide suggested prompts:
+
+Give me a 30-second overview of Nkosinathi.
+
+What is Nkosinathi's strongest AI project?
+
+What AI systems has he built?
+
+Tell me about his current role.
+
+What technologies and AI capabilities does he have?
+
+Which project demonstrates the strongest engineering ability?
+
+Give me a recruiter-friendly summary.
+
+What makes Nkosinathi different from a typical software developer?
+
+The assistant should provide links/buttons to relevant portfolio sections.
+
+Example:
+
+If it discusses CattleShield:
+
+View CattleShield →
+
+If discussing education:
+
+View Education →
+
+If discussing experience:
+
+View Experience →
+
+The AI should be grounded ONLY in verified portfolio information.
+
+Do not invent:
+
+achievements
+companies
+metrics
+responsibilities
+technologies
+awards
+projects
+employment history
+
+If information isn't available, the AI should say so.
+
+The assistant should feel like an intelligent navigation layer over the entire portfolio.
+
+5. FEATURED PROJECTS
+
+Create a premium project showcase.
+
+Do NOT display every project equally.
+
+Create:
+
+Featured AI Systems
+
+with large immersive cards.
+
+Prioritize projects such as:
+
+CattleShield
+
+AI-powered livestock monitoring / intelligent cattle-related system.
+
+AI Health Companion
+
+AI-powered health companion / intelligent conversational application.
+
+AI Automative
+
+AI-powered automotive-related project.
+
+FraudShield
+
+AI-powered transaction fraud detection / comparison system.
+
+Aegis-Sentinel
+
+Security / intelligent monitoring project.
+
+AegisGen
+
+AI / intelligent generation project.
+
+skavs-ai
+
+AI project.
+
+ApplyOnline
+
+Application / automation project.
+
+For each project create a rich case-study experience.
+
+Every project should support:
+
+overview
+problem
+solution
+role
+technical approach
+AI capabilities
+architecture
+challenges
+outcome
+screenshots
+demo
+GitHub
+private-demo request if necessary
+
+Do not invent missing details.
+
+If a project's exact functionality is unclear, structure the UI so the information can be filled in later.
+
+6. INTERACTIVE PROJECT DEMOS
+
+Where public demos exist, show:
+
+LIVE DEMO
+
+Where GitHub exists:
+
+VIEW SOURCE
+
+Where a project is private:
+
+REQUEST DEMO ACCESS
+
+Create a professional demo-access flow.
+
+The visitor can request access with:
+
+name
+email
+organization
+project requested
+message
+
+Do not expose private repositories or private credentials.
+
+Projects should feel like actual products rather than screenshots.
+
+7. AI ENGINEERING CAPABILITIES
+
+Create a dedicated section:
+
+AI ENGINEERING
+
+Organize capabilities by engineering domain rather than simply listing software.
+
+Include areas such as:
+
+Generative AI
+LLM applications
+conversational AI
+prompt engineering
+structured generation
+tool calling
+context engineering
+retrieval-augmented generation
+embeddings
+semantic search
+vector search
+AI Agents
+agentic workflows
+tool-using agents
+multi-step workflows
+agent orchestration
+memory
+autonomous task execution
+human-in-the-loop systems
+Machine Learning
+classification
+regression
+anomaly detection
+predictive modeling
+feature engineering
+model evaluation
+intelligent decision systems
+ML Engineering
+model serving
+inference workflows
+experiment tracking
+model monitoring
+evaluation pipelines
+reproducibility
+deployment
+AI Infrastructure
+retrieval systems
+vector databases
+caching
+asynchronous workflows
+API orchestration
+observability
+latency optimization
+cost optimization
+Responsible AI
+evaluation
+reliability
+hallucination mitigation
+privacy
+security
+prompt injection awareness
+human oversight
+
+IMPORTANT:
+
+Do not claim I have professional experience with every technology or technique above.
+
+Separate:
+
+Experienced
+
+Working Knowledge
+
+Currently Exploring
+
+where appropriate.
+
+8. ENGINEERING SKILLS
+
+Create a polished technical capability section.
+
+Current known skills include:
+
+Programming
+
+C++
+Python
+JavaScript
+
+Web / Application
+
+HTML5
+CSS
+React.js
+Node.js
+
+Databases
+
+MySQL
+MongoDB
+SQLite
+
+Development / Infrastructure
+
+Linux
+Git
+Azure
+Netlify
+Flask
+Redis Streams
+DVC
+MLflow
+Google Colab
+
+Machine Learning
+
+XGBoost
+
+Do NOT exaggerate proficiency.
+
+Avoid generic progress bars like:
+
+Python ██████████ 90%
+
+Instead show:
+
+capability
+experience level
+related projects
+category
+
+Use elegant interactive cards.
+
+9. AI × SECURITY
+
+Create a dedicated signature section.
+
+Title:
+
+AI × SECURITY
+
+Position this as an intersection between my AI engineering and cybersecurity background.
+
+Show relevant work such as:
+
+FraudShield
+
+Aegis-Sentinel
+
+AegisGen
+
+And cybersecurity credentials:
+
+Ethical Hacker
+Cyber Threat Management
+Introduction to Cybersecurity
+Packet Tracer
+Operating Systems Support
+
+Messaging:
+
+Building intelligent systems with security, reliability and failure modes in mind.
+
+This should become part of my professional identity.
+
+10. AI LAB
+
+Create an interactive:
+
+AI LAB
+
+This is the experimental side of the portfolio.
+
+Include experiment cards.
+
+Examples:
+
+AI Agents
+
+RAG experiments
+
+Model evaluation
+
+AI reliability
+
+AI automation
+
+Data experiments
+
+Security experiments
+
+Each experiment should support:
+
+hypothesis
+approach
+experiment
+observation
+conclusion
+
+Do NOT fabricate experiment results.
+
+Create placeholders where real results can later be entered.
+
+Make this feel like an engineering research notebook.
+
+11. AI EVALUATION DASHBOARD
+
+Create:
+
+AI EVALUATION
+
+This should demonstrate that I understand that AI systems need evaluation.
+
+Create an interactive dashboard structure for:
+
+accuracy
+task success
+groundedness
+retrieval quality
+citation accuracy
+latency
+cost
+failure rate
+
+Only display real metrics when provided.
+
+If metrics aren't available, display:
+
+Evaluation data coming soon.
+
+Do NOT generate fake numbers.
+
+Include beautiful charts and comparison interfaces.
+
+12. ARCHITECTURE EXPLORER
+
+Create a dedicated interactive architecture experience.
+
+For selected projects:
+
+Overview
+
+Architecture
+
+Data Flow
+
+AI Pipeline
+
+Evaluation
+
+Allow users to visually inspect system architecture.
+
+Example conceptual flow:
+
+User
+
+↓
+
+Application
+
+↓
+
+AI Orchestrator
+
+↓
+
+Retrieval / Tools / Memory
+
+↓
+
+Model
+
+↓
+
+Evaluation
+
+↓
+
+Response
+
+Each component should be clickable and explainable.
+
+Do not invent architecture details for projects.
+
+Use actual information when available and clearly mark conceptual diagrams.
+
+13. EXPERIENCE
+
+Create a premium career timeline.
+
+12LINKS
+
+AI Engineer
+
+February 2026 — Present
+
+Use a case-study format:
+
+role
+responsibilities
+systems worked on
+engineering areas
+projects
+impact
+
+Only use verified information.
+
+Somahorse AI
+
+Full-Stack Developer
+
+November 2025 — February 2026
+
+Show:
+
+role
+work
+systems
+products
+engineering contribution
+
+Only use verified information.
+
+DevThrive
+
+Founder & Developer
+
+2025 — Present
+
+Show:
+
+custom applications
+e-commerce platforms
+web/software tools
+tracking systems
+network monitoring
+cybersecurity solutions
+development
+deployment
+client work
+
+Present this as entrepreneurial experience, not just another job.
+
+14. PROOF OF WORK
+
+Create a section called:
+
+PROOF OF WORK
+
+Use verified information such as:
+
+public repositories
+live demos
+client projects
+AI projects
+cybersecurity projects
+open-source work
+engineering experiments
+certifications
+
+Do not create fake numbers.
+
+If real statistics can be pulled from GitHub, use them dynamically where appropriate.
+
+Possible categories:
+
+AI Systems
+
+Software Projects
+
+Security Projects
+
+Data Projects
+
+Open Source
+
+Client Work
+
+15. CURRENTLY BUILDING
+
+Create a live-feeling section:
+
+CURRENTLY BUILDING
+
+Show active work.
+
+Example:
+
+AI Engineering
+
+Intelligent systems, agentic workflows, AI evaluation and automation.
+
+Show:
+
+Status: Active
+
+Allow this content to be easily edited later.
+
+Add:
+
+Recently built
+
+Currently exploring
+
+Next
+
+Do not fabricate current projects.
+
+16. ENGINEERING PHILOSOPHY
+
+Create:
+
+HOW I THINK
+
+Use elegant cards.
+
+Potential principles:
+
+Build for reality
+
+AI systems should work outside demos.
+
+Measure before optimizing
+
+Performance should be demonstrated, not assumed.
+
+Simplicity wins
+
+Complexity should solve a real problem.
+
+Security is engineering
+
+Failure modes and abuse cases matter.
+
+Learn by building
+
+The strongest learning happens through implementation.
+
+Keep the tone personal and authentic.
+
+17. ENGINEERING JOURNAL
+
+Create:
+
+ENGINEERING NOTES
+
+This should be a technical writing section.
+
+Potential article categories:
+
+AI Engineering
+Machine Learning
+Agents
+Security
+Software Engineering
+Data
+Career / Learning
+
+Create a beautiful article reading experience.
+
+Potential future articles:
+
+What I learned building an AI health companion
+
+Designing reliable AI agents
+
+Building AI systems with security in mind
+
+From machine learning model to production system
+
+Lessons from building CattleShield
+
+Do not create fake published articles.
+
+Use draft / coming-soon states until actual articles exist.
+
+18. GITHUB INTEGRATION
+
+Create:
+
+OPEN SOURCE / GITHUB
+
+Profile:
+
+NuttyHack
+
+Show curated repositories.
+
+Featured candidates:
+
+CattleShield
+AI-Health-Companion
+skavs-ai
+Aegis-Sentinel
+AegisGen
+FraudShield
+ApplyOnline
+Somahorse
+DevThrive
+
+Do not automatically assume every repository is AI-related.
+
+Categorize them accurately.
+
+Show:
+
+repository
+description
+language
+visibility
+update date
+GitHub link
+
+If GitHub API integration is possible safely, use it.
+
+Do not expose secrets.
+
+19. JOURNEY / BUILDING GALLERY
+
+Keep the gallery, but transform it into:
+
+THE JOURNEY
+
+Show:
+
+project development
+university life
+engineering milestones
+screenshots
+product iterations
+events
+certifications
+team moments
+development process
+
+Each image should have:
+
+date
+title
+short context
+
+The gallery should tell the story of my development as an engineer.
+
+20. EDUCATION
+
+Create a premium education section.
+
+Bachelor of Science in Computer Science
+
+University of Pretoria
+
+Pretoria, South Africa
+
+2025 — Present
+
+Show academic foundation.
+
+First-year foundation
+Imperative Programming
+Data Structures and Algorithms
+Introduction to Computer Science
+Operating Systems
+Program Design
+Second-year coursework
+COS 210 — Theoretical Computer Science
+COS 212 — Data Structures and Algorithms
+COS 214 — Software Modelling
+COS 216 — Netcentric Computer Systems
+COS 221 — Introduction to Database Systems
+COS 226 — Concurrent Systems
+COS 284 — Computer Organisation and Architecture
+WTW 285 — Discrete Structures
+
+Use expandable module cards.
+
+Do not overwhelm the main page.
+
+Allow visitors to expand for details.
+
+21. CERTIFICATIONS
+
+Create:
+
+CERTIFICATIONS & CREDENTIALS
+
+Include:
+
+Data Engineering — WeThinkCode
+
+Cybersecurity-related credentials:
+
+Ethical Hacker
+Cyber Threat Management
+Introduction to Cybersecurity
+C++ Essentials
+Operating Systems Support
+Packet Tracer
+
+Do not artificially inflate credential levels.
+
+Show issuer where known.
+
+Allow certificates to link to verification pages when actual verification links are available.
+
+22. RECRUITER MODE
+
+This should be one of the portfolio's signature features.
+
+Add a button:
+
+Recruiter View
+
+When enabled, transform the site into a concise professional profile.
+
+Show:
+
+NKOSINATHI NGWENYA
+
+AI ENGINEER
+
+Current
+
+12LINKS — AI Engineer
+
+Previous
+
+Somahorse AI — Full-Stack Developer
+
+DevThrive — Founder & Developer
+
+Education
+
+BSc Computer Science
+University of Pretoria
+
+Core areas
+
+AI Engineering
+Machine Learning
+Generative AI
+Full-Stack Engineering
+Data Engineering
+Cybersecurity
+
+Actions:
+
+Download CV
+
+Contact
+
+LinkedIn
+
+GitHub
+
+The recruiter view should be extremely fast to scan.
+
+23. TECHNICAL DEEP DIVE MODE
+
+For every major project, create:
+
+Overview
+
+Demo
+
+Architecture
+
+Engineering
+
+Evaluation
+
+Challenges
+
+Results
+
+Code
+
+This allows different audiences to choose their depth.
+
+Recruiter:
+
+30 seconds.
+
+Hiring manager:
+
+3 minutes.
+
+Senior engineer:
+
+15+ minutes.
+
+This is essential.
+
+24. CONTACT + AVAILABILITY
+
+Create a premium closing section:
+
+LET'S BUILD
+
+Interested in AI engineering, intelligent products, software systems, collaboration or technical opportunities?
+
+Contact:
+
+ngwenyankhosinathi@gmail.com
+
+Location:
+
+Pretoria, South Africa
+
+Show:
+
+● Open to opportunities
+
+Potential categories:
+
+AI Engineering
+ML Engineering
+Software Engineering
+Applied AI
+AI Product Development
+Technical Collaboration
+
+Only display categories that accurately represent my interests.
+
+Include:
+
+LinkedIn
+
+GitHub
+
+Instagram
+
+Make contact extremely easy.
+
+PROJECT DATA
+
+Use these known repositories as portfolio data.
+
+GitHub username:
+
+NuttyHack
+
+Repositories:
+
+ApplyOnline
+
+Public
+TypeScript
+
+CattleShield
+
+Private
+
+AI-Health-Companion
+
+Private
+
+skavs-ai
+
+Public
+TypeScript
+
+HOYE-SECONDARY-SCHOOL
+
+Public
+PHP
+
+Description:
+
+Modern responsive website for Hoye Secondary School showcasing school information, admissions and student funding details.
+
+Aegis-Sentinel
+
+Public
+Python
+
+AegisGen
+
+Public
+Python
+
+hoye-admission-system
+
+Public
+HTML
+
+campus-utility-frontend
+
+Public
+JavaScript
+
+Description:
+
+Mobile-first platform for students with real-time lab availability and campus alerts.
+
+Hoyeeeee
+
+Public
+
+NuttyHack
+
+Public
+
+Portfolio
+
+Public
+
+Description:
+
+Personal portfolio showcasing work as an AI Engineer, featuring machine learning systems, intelligent applications, full-stack development projects and cybersecurity-driven solutions.
+
+devtrhive
+
+Public
+
+devthrive-site
+
+Public
+
+Description:
+
+Website for DevThrive software development company.
+
+hoye-webpage
+
+Public
+CSS
+
+Somahorse-Nexus-website
+
+Public
+HTML
+
+somahorse
+
+Public
+TypeScript
+
+Nkosinathi-Ngwenya-AI-Portfolio
+
+Public
+
+Description:
+
+AI assistant portfolio designed to help companies learn about Nkosinathi and his work.
+
+FRAUDSHIELD
+
+Public
+
+Description:
+
+AI model for detecting and comparing transactions.
+
+Do not invent functionality beyond these descriptions unless information is later provided.
+
+SOCIAL LINKS
+
+LinkedIn:
+
+https://www.linkedin.com/in/nkosinathi-ngwenya-3bb058347
+
+Instagram:
+
+https://www.instagram.com/mongameli_ngwenya
+
+GitHub:
+
+https://github.com/NuttyHack
+
+Email:
+
+ngwenyankhosinathi@gmail.com
+
+Location:
+
+Hatfield, Pretoria, South Africa
+
+IMPORTANT CONTENT RULES
+
+Never fabricate:
+
+employment achievements
+performance metrics
+salaries
+clients
+awards
+publications
+GitHub stars
+users
+revenue
+model accuracy
+project outcomes
+responsibilities
+technologies
+certifications
+
+If something is unknown:
+
+Use a tasteful:
+
+Details coming soon
+
+or:
+
+Request project information
+
+or create editable content fields.
+
+The website should be truthful.
+
+UX REQUIREMENTS
+
+The site must have:
+
+extremely fast loading
+responsive design
+excellent mobile experience
+tablet support
+desktop support
+keyboard accessibility
+accessible contrast
+semantic structure
+polished hover states
+smooth but restrained animations
+reduced-motion support
+clear navigation
+excellent typography
+responsive project layouts
+deep-linkable sections
+proper browser history
+SEO metadata
+Open Graph metadata
+favicon
+professional page title
+proper error states
+loading states
+empty states
+MOBILE EXPERIENCE
+
+Do not treat mobile as a smaller desktop.
+
+Design the mobile experience intentionally.
+
+The mobile site should feel like a premium AI application.
+
+Use:
+
+bottom navigation where appropriate
+expandable project cards
+compact AI assistant
+swipeable project experiences where useful
+readable typography
+large touch targets
+NAVIGATION
+
+Use a modern navigation system.
+
+Suggested:
+
+Home
+
+Work
+
+Engineering
+
+Experience
+
+Lab
+
+About
+
+Contact
+
+And a persistent:
+
+Ask AI
+
+Do not use the old category-sidebar design.
+
+VISUAL INTERACTION
+
+Use sophisticated micro-interactions:
+
+magnetic buttons only where useful
+smooth page transitions
+project hover previews
+subtle card movement
+scroll reveal
+animated counters only for verified numbers
+architecture interactions
+expandable technical sections
+AI typing states
+live status indicators
+command/search interface
+
+Avoid over-animation.
+
+The website should still feel extremely fast.
+
+COMMAND PALETTE
+
+Add a professional command/search interface.
+
+Shortcut:
+
+⌘ K / Ctrl K
+
+Allow users to search:
+
+projects
+experience
+skills
+education
+AI lab
+engineering notes
+contact
+
+Example:
+
+"Show AI projects"
+
+"Open experience"
+
+"Show cybersecurity work"
+
+"Contact Nkosinathi"
+
+This should feel like an intelligent portfolio operating system.
+
+VISUAL SYSTEM
+
+Create a consistent design system.
+
+Define:
+
+typography hierarchy
+spacing scale
+border system
+cards
+buttons
+badges
+tags
+status indicators
+tooltips
+modals
+drawers
+navigation
+code blocks
+architecture diagrams
+charts
+
+Do not make every section look different.
+
+Everything should belong to one visual language.
+
+PREMIUM DETAILS
+
+Add subtle details that make the site feel exceptionally polished:
+
+custom cursor only if it improves usability
+project status indicators
+subtle grid backgrounds
+technical coordinate / metadata labels
+system status
+elegant page transitions
+tiny interaction sounds ONLY if optional and muted by default
+intelligent empty states
+skeleton loading
+beautiful modal transitions
+polished 404 page
+
+Do not turn the site into a cyberpunk game.
+
+PERFORMANCE
+
+Prioritize:
+
+fast first load
+lazy loading
+optimized images
+minimal unnecessary dependencies
+code splitting where appropriate
+efficient animations
+no blocking scripts
+responsive image handling
+
+The portfolio should feel instant.
+
+SEO
+
+Create professional SEO metadata around:
+
+Nkosinathi Ngwenya
+
+AI Engineer
+
+AI Engineer Pretoria
+
+AI Engineering Portfolio
+
+Machine Learning Engineer
+
+Software Engineer
+
+Artificial Intelligence
+
+Do not keyword-stuff.
+
+Create excellent Open Graph previews.
+
+FINAL EXPERIENCE
+
+When someone lands on the site, the intended journey should be:
+
+Understand who I am.
+See that I am an AI Engineer.
+See impressive AI work.
+Interact with a project.
+Understand how I engineer AI.
+Explore architecture.
+See evaluation and experimentation.
+Understand my professional experience.
+Learn about my education.
+Ask my AI assistant questions.
+Contact me.
+
+The website should make a visitor think:
+
+"This is much more than a student portfolio."
+
+Then:
+
+"He actually builds AI systems."
+
+Then:
+
+"I want to talk to him."
+
+MOST IMPORTANT DESIGN PRINCIPLE
+
+Do not build a website that merely TELLS people I am an AI Engineer.
+
+Build a website that DEMONSTRATES it.
+
+The portfolio itself should be evidence of:
+
+product thinking
+AI engineering
+system design
+UX
+software engineering
+experimentation
+technical communication
+attention to detail
+
+The website should itself feel like one of Nkosinathi's best projects.
+
+IMPLEMENTATION APPROACH
+
+Before coding:
+
+Inspect the existing portfolio.
+Preserve useful existing content.
+Audit all existing sections.
+Identify what can be reused.
+Create the new information architecture.
+Build the design system.
+Build the homepage.
+Build project experiences.
+Build the AI assistant.
+Build Recruiter Mode.
+Build AI Lab.
+Build Architecture Explorer.
+Build Evaluation interface.
+Build Engineering Notes.
+Build education / experience / certifications.
+Build contact.
+Optimize mobile.
+Optimize performance.
+Test all navigation.
+Test all interactive states.
+Test accessibility.
+Test production build.
+
+Do NOT simply modify the old sidebar.
+
+This should be a genuine redesign.
+
+FINAL QUALITY BAR
+
+Before considering the project complete, ask:
+
+Would this look credible if shown to an AI startup CTO?
+
+Would a recruiter understand my profile within 30 seconds?
+
+Would a senior engineer want to inspect the architecture?
+
+Does the AI assistant actually provide useful information?
+
+Do the projects feel like real products?
+
+Does the site demonstrate engineering ability?
+
+Does it feel premium on mobile?
+
+Does anything look like a generic template?
+
+If the answer to any of these is no, improve it.
+
+The final result should feel like:
+
+A world-class AI Engineer's personal product — not a portfolio template.
+
+Build the experience with exceptional attention to detail

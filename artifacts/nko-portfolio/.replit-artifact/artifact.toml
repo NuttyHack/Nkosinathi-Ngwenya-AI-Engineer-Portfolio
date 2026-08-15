@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Nkosinathi Ngwenya — AI Engineer"
+description = "A premium personal product for Nkosinathi Ngwenya, an AI Engineer building intelligent systems, AI-powered products, and security-aware software."
+version = "1.0.0"
+id = "artifacts/nko-portfolio"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 18742
+
+[services.development]
+run = "pnpm --filter @workspace/nko-portfolio run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/nko-portfolio", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/nko-portfolio/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "18742"
+BASE_PATH = "/"
