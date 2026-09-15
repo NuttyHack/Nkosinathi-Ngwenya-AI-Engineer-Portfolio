@@ -42,8 +42,7 @@ function useTheme() {
 
 function Brand() {
   return <Link href="/" data-testid="link-brand" className="flex items-center gap-3 text-left focus-ring">
-    <span className="grid h-9 w-9 place-items-center rounded-lg bg-[hsl(var(--foreground))] text-[hsl(var(--accent))] font-display font-bold">N</span>
-    <span><span className="block font-display text-sm font-bold tracking-tight">NKOSINATHI</span><span className="block font-mono-ui text-[9px] uppercase tracking-[.18em] text-[hsl(var(--muted-foreground))]">AI engineer / Pretoria</span></span>
+    <span><span className="block font-display text-sm font-bold tracking-tight">NKOSINATHI</span><span className="block font-mono-ui text-[9px] uppercase tracking-[.18em] text-[hsl(var(--muted-foreground))]">AI engineer </span></span>
   </Link>;
 }
 
