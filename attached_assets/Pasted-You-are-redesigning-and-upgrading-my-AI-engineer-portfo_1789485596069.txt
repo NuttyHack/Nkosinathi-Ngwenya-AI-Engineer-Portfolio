@@ -1,0 +1,528 @@
+You are redesigning and upgrading my AI engineer portfolio website.
+
+The portfolio already contains useful information about me, my experience, projects, labs, evaluations, skills, and an AI chatbot. Do not remove valuable content or break existing routes and functionality.
+
+Your job is to make the portfolio look like a premium, modern AI engineer portfolio suitable for recruiters, founders, technical leaders, and potential clients.
+
+==================================================
+1. COMPLETE VISUAL REDESIGN
+==================================================
+
+The current design looks outdated, poorly styled, and visually weak.
+
+Redesign the entire website with a modern, premium, AI-focused visual identity.
+
+Design direction:
+
+- Modern AI engineer portfolio
+- Premium dark interface
+- Clean typography
+- Strong visual hierarchy
+- Excellent spacing
+- Elegant cards and panels
+- Subtle gradients
+- Glassmorphism only where appropriate
+- Smooth animations
+- High-quality responsive layout
+- Professional, minimal, and technically sophisticated
+- The design should feel like a combination of:
+  - A premium AI startup website
+  - A modern developer portfolio
+  - A polished product landing page
+  - A high-end technical case-study website
+
+Do not make it look like a generic template.
+
+Use a strong visual system:
+
+- Dark background with layered surfaces
+- Neutral colors with one or two accent colors
+- Modern font pairing
+- Clear section headings
+- Consistent border radius
+- Consistent card styles
+- Subtle hover effects
+- Smooth page transitions
+- High-quality buttons
+- Professional navigation
+- Responsive mobile layout
+- Proper loading and empty states
+
+Avoid:
+
+- Cheap-looking gradients
+- Excessive neon colors
+- Random colors
+- Huge unnecessary text
+- Crowded layouts
+- Inconsistent card designs
+- Poor contrast
+- Excessive rounded containers
+- Unstyled tables
+- Placeholder-looking sections
+- Broken spacing
+- Generic dashboard styling
+- Any visual element that looks unfinished
+
+The website must look intentionally designed, not automatically generated.
+
+==================================================
+2. HERO SECTION
+==================================================
+
+Create a visually impressive hero section.
+
+The hero should immediately communicate:
+
+- Who I am
+- That I am an AI/software engineer
+- What I build
+- Why my work matters
+
+Include:
+
+- Strong headline
+- Short professional introduction
+- Clear supporting text
+- Primary CTA such as “Explore My Work”
+- Secondary CTA such as “Ask My AI”
+- Professional status or availability indicator only if real and supported
+- Subtle animated background
+- Optional high-quality AI/technology hero visual
+- Optional automotive/AI imagery if relevant to my projects
+
+Hero imagery must look premium and intentional.
+
+If images are used:
+
+- Use high-quality images
+- Use proper aspect ratios
+- Do not use blurry, random, or unrelated stock images
+- Do not overload the page with images
+- Make sure images work on mobile
+- Add suitable overlays so text remains readable
+- Do not imply that I work for a company unless that is explicitly true
+
+The hero should feel like a strong personal brand introduction.
+
+==================================================
+3. IMPROVE ALL SECTIONS
+==================================================
+
+Review every existing page and section, including but not limited to:
+
+- Home
+- About
+- Experience
+- Skills
+- Projects
+- Labs
+- Evaluations
+- Achievements
+- Contact
+- AI chatbot
+- Any case-study pages
+- Any project detail pages
+- Any navigation menus
+- Any footer content
+
+Preserve the existing information, but redesign how it is presented.
+
+Use appropriate layouts such as:
+
+- Timeline for experience
+- Project cards for projects
+- Technical capability cards for skills
+- Case-study layouts for major projects
+- Metrics cards only when the metrics are real
+- Expandable details where useful
+- Tabs or filters only when they improve usability
+- Clean visual grouping
+- Strong section introductions
+
+Do not create unnecessary pages or duplicate content.
+
+==================================================
+4. REMOVE ALL “NOT AVAILABLE” CONTENT
+==================================================
+
+The website currently contains text such as:
+
+- “No value published”
+- “Not available”
+- “Currently working on it”
+- “Coming soon”
+- “Information unavailable”
+- “Not provided”
+- “N/A”
+- Empty placeholder fields
+- Unfinished evaluation values
+- Blank cards
+- Empty sections
+- Placeholder descriptions
+
+Remove these from the visible professional portfolio.
+
+Important rules:
+
+- Do not display “No value published”
+- Do not display “Not available”
+- Do not display “N/A”
+- Do not display “Coming soon”
+- Do not display “Currently working on it”
+- Do not display empty cards
+- Do not display unfinished sections
+- Do not display placeholder text
+- Do not display labels that expose missing data
+
+If a field has no meaningful information:
+
+1. Hide the field entirely, or
+2. Remove the entire card if the card has no useful content, or
+3. Replace it with a truthful, useful description based only on information already available in the project.
+
+Do not invent achievements, employment, certifications, salaries, client names, performance metrics, or professional claims.
+
+For example:
+
+Bad:
+- Evaluation: No value published
+- Status: Not available
+- Current work: Currently working on it
+
+Better:
+- Hide the field
+- Show only meaningful evaluation criteria
+- Show actual project outcomes
+- Show documented technical capabilities
+- Show real responsibilities and contributions
+
+The final website should look complete and professional without exposing missing information.
+
+==================================================
+5. CONTENT QUALITY
+==================================================
+
+Improve wording where necessary.
+
+The writing should sound:
+
+- Confident
+- Clear
+- Professional
+- Technically credible
+- Human
+- Concise
+- Suitable for an AI engineer portfolio
+
+Avoid:
+
+- Generic motivational language
+- Overclaiming
+- Repetitive descriptions
+- Long paragraphs
+- Buzzword-heavy wording
+- Fake corporate language
+- Unsupported claims
+
+Use strong language that explains:
+
+- What I build
+- What problems I solve
+- What technologies I use
+- How I approach engineering
+- What makes my work valuable
+- What I have actually built
+- What I am currently exploring, only if this information is genuinely available
+
+Make the content easy to scan.
+
+==================================================
+6. AI CHATBOT UPGRADE
+==================================================
+
+The portfolio includes an AI chatbot.
+
+Upgrade it so it can answer questions about me and my portfolio accurately.
+
+The chatbot should be able to answer questions about:
+
+- My background
+- My professional summary
+- My experience
+- My skills
+- My projects
+- Sentinel AI
+- My automotive AI work
+- My technical interests
+- My engineering approach
+- My labs
+- My evaluations
+- My achievements
+- My technologies
+- My education, if available
+- My contact information, if available
+- My portfolio pages
+- My project architecture
+- My role and contribution to each project
+- The purpose of each project
+- The problems each project solves
+- The technologies used in each project
+- The current maturity or status of each project, when documented
+
+The chatbot must use the actual portfolio content as its source of truth.
+
+Do not hardcode a small number of answers.
+
+Create a structured portfolio knowledge base from the existing website content.
+
+The chatbot should be able to answer both simple and detailed questions, including:
+
+- “Who is this engineer?”
+- “What does he specialize in?”
+- “Tell me about Sentinel AI.”
+- “What projects has he built?”
+- “What technologies does he use?”
+- “What makes his work different?”
+- “Explain his automotive AI project.”
+- “What is his experience with AI systems?”
+- “What are his strongest technical skills?”
+- “How can I contact him?”
+- “Show me his most important project.”
+- “What problem does Sentinel AI solve?”
+- “How is Sentinel AI architected?”
+- “What is his approach to building software?”
+
+The chatbot should provide:
+
+- Clear answers
+- Relevant details
+- Links to relevant portfolio pages when possible
+- Project names
+- Technologies
+- Concise explanations
+- Honest limitations
+
+If the information is not present in the portfolio, the chatbot should say something professional such as:
+
+“I don’t have that information in this portfolio yet.”
+
+Do not make up information.
+
+Do not claim I worked for companies, built products, or achieved results that are not documented.
+
+The chatbot should never say:
+
+- “No value published”
+- “Not available”
+- “I don’t know” without context
+- “As an AI language model”
+- Random generic answers unrelated to my portfolio
+
+The chatbot UI should also be redesigned:
+
+- Modern chat interface
+- Clear message bubbles
+- Excellent spacing
+- Typing indicator
+- Suggested questions
+- Mobile-friendly layout
+- Clear reset conversation action
+- Good error handling
+- Accessible input and buttons
+- Smooth but subtle animations
+
+Suggested question buttons may include:
+
+- “Tell me about this engineer”
+- “What is Sentinel AI?”
+- “Show me the main projects”
+- “What technologies does he use?”
+- “Explain the automotive AI work”
+- “How can I contact him?”
+
+==================================================
+7. AI CHATBOT KNOWLEDGE ARCHITECTURE
+==================================================
+
+Create a centralized structured data source for the chatbot.
+
+For example, organize the available portfolio information into categories such as:
+
+- identity
+- summary
+- experience
+- skills
+- projects
+- project_architecture
+- labs
+- evaluations
+- achievements
+- education
+- contact
+- engineering_principles
+- frequently_asked_questions
+
+The chatbot should retrieve information from this structured source instead of relying only on visible UI text.
+
+Keep the knowledge source easy to update.
+
+If the project already has an API or backend, use the existing architecture where appropriate.
+
+Do not expose API keys or secrets in frontend code.
+
+Use environment variables for any required AI provider credentials.
+
+==================================================
+8. PROJECT AND CASE STUDY PRESENTATION
+==================================================
+
+Make major projects look like professional engineering case studies.
+
+Each project should clearly show, where information exists:
+
+- Project name
+- Short description
+- Problem
+- Solution
+- My contribution
+- Technologies
+- Architecture
+- Key features
+- Screenshots or visual preview
+- Project status
+- GitHub or live demo link, if available
+
+Do not invent project metrics.
+
+If a project is a prototype or demonstration, label it honestly.
+
+For Sentinel AI, preserve truthful wording such as:
+
+- Automotive quality-intelligence platform
+- Demonstration environment
+- AI-assisted vehicle quality analysis
+- Recall and reliability intelligence
+- Diagnostic and quality signal analysis
+
+Do not imply official affiliation with Ford, BMW, or another automaker unless explicitly documented.
+
+==================================================
+9. RESPONSIVE DESIGN AND ACCESSIBILITY
+==================================================
+
+The website must work properly on:
+
+- Desktop
+- Laptop
+- Tablet
+- Mobile
+- Small mobile screens
+
+Check:
+
+- Navigation
+- Hero section
+- Cards
+- Tables
+- Chatbot
+- Images
+- Buttons
+- Typography
+- Spacing
+- Overflow
+- Modal windows
+- Forms
+- Footer
+
+Ensure:
+
+- Keyboard accessibility
+- Visible focus states
+- Proper button labels
+- Readable contrast
+- Semantic HTML
+- Accessible form labels
+- Alt text for meaningful images
+- No horizontal scrolling on mobile
+- No text clipped inside cards
+
+==================================================
+10. PERFORMANCE AND CODE QUALITY
+==================================================
+
+Do not sacrifice performance for visual effects.
+
+Use:
+
+- Lazy-loaded images
+- Optimized assets
+- Reusable components
+- Clean component structure
+- Consistent design tokens
+- Efficient state management
+- Proper loading states
+- Error states
+- Responsive image handling
+
+Avoid:
+
+- Duplicated components
+- Repeated hardcoded styles
+- Unnecessary dependencies
+- Large browser-side data loads
+- Excessive animation
+- Console errors
+- Broken links
+- Unused code
+- Dead routes
+
+Preserve all working functionality unless it must be changed to support the redesign.
+
+==================================================
+11. FINAL VALIDATION
+==================================================
+
+Before finishing:
+
+1. Inspect the entire existing portfolio.
+2. Identify every visible placeholder or unavailable value.
+3. Remove or hide all such content.
+4. Redesign all major pages consistently.
+5. Upgrade the AI chatbot.
+6. Ensure the chatbot uses the real portfolio data.
+7. Verify that the chatbot can answer questions about all major sections.
+8. Check all navigation links.
+9. Check all buttons.
+10. Check all forms.
+11. Check mobile responsiveness.
+12. Check image loading.
+13. Check loading states.
+14. Check error states.
+15. Remove console errors.
+16. Run the frontend typecheck.
+17. Run the production build.
+18. Run the full workspace typecheck if available.
+19. Test the website in the browser.
+20. Verify that no visible text contains:
+    - “No value published”
+    - “Not available”
+    - “N/A”
+    - “Coming soon”
+    - “Currently working on it”
+    - “Information unavailable”
+    - Empty placeholder labels
+
+Do not merely describe what should be changed.
+
+Actually implement the changes in the codebase.
+
+At the end, provide a concise implementation report containing:
+
+- Pages redesigned
+- Components created or updated
+- Chatbot improvements
+- Placeholder content removed
+- Validation commands run
+- Build/typecheck results
+- Any remaining limitations

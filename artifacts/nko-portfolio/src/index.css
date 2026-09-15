@@ -36,71 +36,71 @@
 }
 
 :root {
-  --background: 41 33% 94%;
-  --foreground: 222 31% 15%;
-  --border: 220 15% 82%;
-  --input: 220 15% 82%;
-  --ring: 174 54% 33%;
-  --card: 40 33% 97%;
-  --card-foreground: 222 31% 15%;
-  --card-border: 220 15% 83%;
-  --popover: 39 33% 98%;
-  --popover-foreground: 222 31% 15%;
-  --popover-border: 220 15% 82%;
-  --primary: 174 54% 29%;
-  --primary-foreground: 42 35% 97%;
-  --secondary: 220 24% 91%;
-  --secondary-foreground: 222 31% 15%;
-  --muted: 39 20% 89%;
-  --muted-foreground: 220 13% 42%;
-  --accent: 69 77% 53%;
-  --accent-foreground: 222 31% 15%;
+  --background: 39 38% 94%;
+  --foreground: 216 32% 14%;
+  --border: 214 18% 80%;
+  --input: 214 18% 80%;
+  --ring: 178 61% 31%;
+  --card: 41 42% 98%;
+  --card-foreground: 216 32% 14%;
+  --card-border: 214 18% 82%;
+  --popover: 41 42% 98%;
+  --popover-foreground: 216 32% 14%;
+  --popover-border: 214 18% 80%;
+  --primary: 178 61% 31%;
+  --primary-foreground: 41 42% 98%;
+  --secondary: 214 25% 89%;
+  --secondary-foreground: 216 32% 14%;
+  --muted: 39 24% 88%;
+  --muted-foreground: 216 15% 42%;
+  --accent: 66 79% 55%;
+  --accent-foreground: 216 32% 14%;
   --destructive: 5 68% 46%;
-  --destructive-foreground: 42 35% 97%;
-  --sidebar: 222 31% 15%;
-  --sidebar-foreground: 42 35% 97%;
-  --sidebar-border: 220 15% 28%;
-  --sidebar-primary: 69 77% 53%;
-  --sidebar-primary-foreground: 222 31% 15%;
-  --sidebar-accent: 174 54% 29%;
-  --sidebar-accent-foreground: 42 35% 97%;
-  --radius: 0.75rem;
+  --destructive-foreground: 41 42% 98%;
+  --sidebar: 216 32% 14%;
+  --sidebar-foreground: 41 42% 98%;
+  --sidebar-border: 216 20% 27%;
+  --sidebar-primary: 66 79% 55%;
+  --sidebar-primary-foreground: 216 32% 14%;
+  --sidebar-accent: 178 61% 31%;
+  --sidebar-accent-foreground: 41 42% 98%;
+  --radius: 0.7rem;
   --app-font-sans: 'Manrope', sans-serif;
   --app-font-display: 'Space Grotesk', sans-serif;
   --app-font-mono: 'DM Mono', monospace;
-  --shadow-card: 0 12px 35px rgba(42, 51, 65, .07);
+  --shadow-card: 0 18px 50px rgba(32, 45, 57, .08);
 }
 
 .dark {
-  --background: 222 29% 10%;
-  --foreground: 40 33% 94%;
-  --border: 219 18% 23%;
-  --input: 219 18% 23%;
-  --ring: 69 77% 53%;
-  --card: 222 25% 14%;
-  --card-foreground: 40 33% 94%;
-  --card-border: 219 18% 25%;
-  --popover: 222 25% 14%;
-  --popover-foreground: 40 33% 94%;
-  --popover-border: 219 18% 25%;
-  --primary: 174 58% 51%;
-  --primary-foreground: 222 29% 10%;
-  --secondary: 219 18% 20%;
-  --secondary-foreground: 40 33% 94%;
-  --muted: 220 17% 18%;
-  --muted-foreground: 220 12% 65%;
-  --accent: 69 77% 53%;
-  --accent-foreground: 222 29% 10%;
+  --background: 216 32% 10%;
+  --foreground: 40 38% 94%;
+  --border: 216 20% 25%;
+  --input: 216 20% 25%;
+  --ring: 66 79% 55%;
+  --card: 216 28% 14%;
+  --card-foreground: 40 38% 94%;
+  --card-border: 216 20% 26%;
+  --popover: 216 28% 14%;
+  --popover-foreground: 40 38% 94%;
+  --popover-border: 216 20% 25%;
+  --primary: 178 57% 54%;
+  --primary-foreground: 216 32% 10%;
+  --secondary: 216 22% 20%;
+  --secondary-foreground: 40 38% 94%;
+  --muted: 216 23% 18%;
+  --muted-foreground: 214 16% 67%;
+  --accent: 66 79% 55%;
+  --accent-foreground: 216 32% 10%;
   --destructive: 5 68% 58%;
-  --destructive-foreground: 222 29% 10%;
-  --sidebar: 222 31% 7%;
-  --sidebar-foreground: 40 33% 94%;
-  --sidebar-border: 219 18% 18%;
-  --sidebar-primary: 69 77% 53%;
-  --sidebar-primary-foreground: 222 29% 10%;
-  --sidebar-accent: 174 58% 51%;
-  --sidebar-accent-foreground: 222 29% 10%;
-  --shadow-card: 0 18px 55px rgba(0, 0, 0, .18);
+  --destructive-foreground: 216 32% 10%;
+  --sidebar: 216 35% 7%;
+  --sidebar-foreground: 40 38% 94%;
+  --sidebar-border: 216 20% 18%;
+  --sidebar-primary: 66 79% 55%;
+  --sidebar-primary-foreground: 216 32% 10%;
+  --sidebar-accent: 178 57% 54%;
+  --sidebar-accent-foreground: 216 32% 10%;
+  --shadow-card: 0 20px 65px rgba(0, 0, 0, .22);
 }
 
 @layer base {
@@ -159,6 +159,19 @@
 @keyframes rise { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
 @keyframes pulse-dot { 0%,100% { opacity: .45; transform: scale(.9); } 50% { opacity: 1; transform: scale(1.05); } }
 .live-dot { animation: pulse-dot 2s ease-in-out infinite; }
+.page-enter { animation: page-enter .42s cubic-bezier(.22,.8,.3,1) both; }
+@keyframes page-enter { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+.data-grid {
+  background-image: linear-gradient(hsl(var(--border) / .38) 1px, transparent 1px), linear-gradient(90deg, hsl(var(--border) / .38) 1px, transparent 1px);
+  background-size: 32px 32px;
+}
+.node-field { position: relative; overflow: hidden; background: radial-gradient(circle at 48% 45%, hsl(var(--primary) / .16), transparent 28%), linear-gradient(135deg, hsl(var(--sidebar)), hsl(var(--primary) / .16)); }
+.node-field::before, .node-field::after { content: ''; position: absolute; border: 1px solid hsl(var(--accent) / .48); border-radius: 50%; transform: rotate(-22deg); }
+.node-field::before { inset: 15% 14%; }
+.node-field::after { inset: 25% 24%; border-color: hsl(var(--foreground) / .25); }
+.node { position: absolute; width: 8px; height: 8px; border-radius: 999px; background: hsl(var(--accent)); box-shadow: 0 0 0 5px hsl(var(--accent) / .13); }
+.node-line { position: absolute; height: 1px; transform-origin: left center; background: linear-gradient(90deg, hsl(var(--accent) / .75), hsl(var(--foreground) / .08)); }
+.focus-ring:focus-visible { outline: 2px solid hsl(var(--accent)); outline-offset: 3px; }
 .modal-backdrop { position: fixed; inset: 0; z-index: 70; background: hsl(222 31% 10% / .62); backdrop-filter: blur(10px); display: grid; place-items: center; padding: 18px; }
 .modal-panel { width: min(720px, 100%); max-height: min(88dvh, 800px); overflow: auto; background: hsl(var(--card)); border: 1px solid hsl(var(--card-border)); box-shadow: 0 30px 100px hsl(222 31% 10% / .35); border-radius: 1rem; animation: panel-in .25s ease-out both; }
 @keyframes panel-in { from { opacity: 0; transform: translateY(10px) scale(.98); } to { opacity: 1; transform: translateY(0) scale(1); } }

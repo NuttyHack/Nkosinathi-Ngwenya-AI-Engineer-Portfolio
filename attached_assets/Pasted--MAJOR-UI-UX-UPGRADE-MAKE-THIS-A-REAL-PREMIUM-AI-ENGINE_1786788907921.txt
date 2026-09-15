@@ -1,0 +1,1082 @@
+# MAJOR UI/UX UPGRADE — MAKE THIS A REAL PREMIUM AI ENGINEER PRODUCT
+
+The current portfolio is functional, but it still feels too raw, plain, and template-like.
+
+I want you to now perform a **major visual and structural transformation**.
+
+Do NOT simply add more content.
+
+The goal is to make this feel like a **world-class, modern AI Engineer portfolio and personal AI product**.
+
+The current version feels like a collection of text sections placed on one page.
+
+That must change.
+
+---
+
+# 1. THE WEBSITE MUST FEEL MODERN
+
+The current website is too raw.
+
+I want a visually impressive, premium, modern AI-focused interface.
+
+The visual quality should communicate:
+
+**AI Engineer**
+**Modern technology**
+**Intelligence**
+**Engineering**
+**Innovation**
+**Professionalism**
+
+It should feel closer to a premium AI startup/product experience than a university portfolio.
+
+Use:
+
+* beautiful hero imagery
+* AI-themed visual compositions
+* sophisticated backgrounds
+* subtle gradients
+* elegant cards
+* depth
+* modern typography
+* refined spacing
+* premium navigation
+* subtle animations
+* polished transitions
+* interactive visual elements
+* modern data/AI visualizations
+* tasteful glow effects
+* subtle grid systems
+* technical visual details
+
+But do NOT make it look like a cyberpunk gaming website.
+
+The aesthetic should be:
+
+**premium + intelligent + minimal + futuristic + professional**
+
+---
+
+# 2. ADD STRONG AI HERO VISUALS
+
+The homepage needs a much stronger visual identity.
+
+Do NOT make the hero mostly text on an empty background.
+
+Create a sophisticated hero composition involving AI/engineering imagery.
+
+Possible visual direction:
+
+* abstract neural network
+* intelligent system visualization
+* futuristic data flows
+* AI model visualization
+* abstract machine intelligence
+* glowing data structures
+* neural connections
+* subtle computational geometry
+* abstract AI architecture
+* intelligent digital environment
+
+The visual should support the personal brand rather than distract from it.
+
+Do NOT use cheesy robot stock images.
+
+Do NOT use generic smiling-person-at-laptop stock photography.
+
+Do NOT use obvious AI-generated humanoid robots.
+
+Use sophisticated abstract AI visuals.
+
+The hero should feel like a premium AI product landing page.
+
+---
+
+# 3. USE IMAGE ASSETS INTELLIGENTLY
+
+Where appropriate, use high-quality AI/technology imagery throughout the portfolio.
+
+Examples:
+
+### Hero
+
+Abstract AI / neural intelligence visual.
+
+### AI Engineering
+
+Technical AI architecture visualization.
+
+### AI Lab
+
+Experimental / research-style visual.
+
+### Projects
+
+Each major project can have a custom visual treatment appropriate to what the project does.
+
+### Cybersecurity
+
+Subtle security/network visualization.
+
+### Data Engineering
+
+Data flow / infrastructure visualization.
+
+### Education
+
+Minimal academic / computational visual.
+
+Do not overload the website with images.
+
+Images should create visual hierarchy.
+
+Every visual must have a purpose.
+
+---
+
+# 4. IMPORTANT — STOP PUTTING EVERYTHING ON ONE PAGE
+
+This is one of the most important changes.
+
+I DO NOT want every piece of information displayed vertically on one giant homepage.
+
+The portfolio must have **real separate pages / tabs / routes**.
+
+The homepage should be a high-level introduction.
+
+Then visitors navigate into dedicated experiences.
+
+Use a modern navigation system.
+
+For example:
+
+```text
+HOME
+
+WORK
+  Projects
+
+ENGINEERING
+  AI Engineering
+  Technical Skills
+  Architecture
+  Evaluation
+
+EXPERIENCE
+  Career
+
+LAB
+  AI Lab
+  Engineering Notes
+
+ABOUT
+  Education
+  Certifications
+  Journey
+
+CONTACT
+```
+
+And:
+
+**ASK AI**
+
+should remain globally accessible.
+
+---
+
+# 5. EVERY TAB MUST HAVE ITS OWN COMPLETE EXPERIENCE
+
+Do not create tabs that simply scroll to another section of the homepage.
+
+Each major navigation item should feel like its own modern page.
+
+For example:
+
+## /projects
+
+Dedicated Projects experience.
+
+It should contain:
+
+* featured projects
+* project filters
+* project cards
+* project categories
+* project search
+* project detail navigation
+
+---
+
+## /engineering
+
+Dedicated AI Engineering page.
+
+It should contain:
+
+* AI capabilities
+* generative AI
+* agents
+* machine learning
+* AI infrastructure
+* evaluation
+* responsible AI
+* AI security
+
+---
+
+## /experience
+
+Dedicated career page.
+
+It should contain:
+
+* 12LINKS
+* Somahorse AI
+* DevThrive
+* career timeline
+* responsibilities
+* engineering contributions
+
+---
+
+## /education
+
+Dedicated education page.
+
+It should contain:
+
+* University of Pretoria
+* degree
+* academic foundation
+* first-year modules
+* second-year modules
+* academic journey
+
+---
+
+## /lab
+
+Dedicated AI Lab.
+
+It should contain:
+
+* experiments
+* research
+* evaluations
+* technical explorations
+
+---
+
+## /about
+
+Dedicated personal/engineering profile.
+
+It should contain:
+
+* who I am
+* engineering philosophy
+* journey
+* interests
+* AI × security
+* current direction
+
+---
+
+## /contact
+
+Dedicated contact experience.
+
+It should contain:
+
+* email
+* LinkedIn
+* GitHub
+* availability
+* collaboration
+* professional opportunities
+
+---
+
+# 6. HOMEPAGE SHOULD BE A PREMIUM LANDING PAGE
+
+The homepage should NOT contain all my information.
+
+It should be a carefully curated introduction.
+
+Structure:
+
+### HERO
+
+Nkosinathi Ngwenya
+
+AI Engineer
+
+> Building intelligent systems that solve real problems.
+
+Current role:
+
+**AI Engineer @ 12LINKS**
+
+Education:
+
+**BSc Computer Science @ University of Pretoria**
+
+Buttons:
+
+**Explore Work**
+
+**Ask My AI**
+
+---
+
+### FEATURED WORK
+
+Only show selected projects.
+
+Not every project.
+
+Example:
+
+CattleShield
+
+AI Health Companion
+
+FraudShield
+
+Aegis-Sentinel
+
+Then:
+
+**View all projects →**
+
+---
+
+### WHAT I BUILD
+
+Small visual overview:
+
+AI Systems
+
+Machine Learning
+
+AI Agents
+
+Data Systems
+
+AI × Security
+
+Full-Stack Products
+
+Then:
+
+**Explore AI Engineering →**
+
+---
+
+### EXPERIENCE PREVIEW
+
+Only show a concise timeline.
+
+Then:
+
+**View experience →**
+
+---
+
+### AI ASSISTANT
+
+Introduce the assistant.
+
+Then:
+
+**Ask my AI →**
+
+---
+
+### FINAL CTA
+
+Let's build.
+
+Then contact.
+
+The homepage should remain visually clean.
+
+---
+
+# 7. FIX THE AI ASSISTANT — THIS IS CRITICAL
+
+The AI assistant currently does NOT respond correctly.
+
+This must be fixed.
+
+Do not just make the UI look like a chatbot.
+
+The chatbot must actually work.
+
+Perform a complete debugging process.
+
+Check:
+
+* API configuration
+* environment variables
+* API key handling
+* frontend request
+* backend request
+* endpoint
+* request payload
+* response parsing
+* error handling
+* authentication if required
+* rate limits
+* model availability
+* network failures
+* timeout handling
+* CORS
+* server logs
+* loading state
+* streaming if supported
+* empty responses
+* malformed responses
+
+Do not expose API keys in frontend code.
+
+Use secure server-side handling.
+
+---
+
+# 8. AI CHAT RESPONSE REQUIREMENTS
+
+When I send:
+
+> Tell me about Nkosinathi.
+
+The assistant MUST produce a response.
+
+When I ask:
+
+> What is his current role?
+
+It should answer:
+
+> Nkosinathi is currently an AI Engineer at 12LINKS, where he has been working since February 2026.
+
+When I ask:
+
+> What projects has he built?
+
+It should answer using the verified project information.
+
+When I ask:
+
+> What is his education?
+
+It should answer using the University of Pretoria information.
+
+The assistant should be able to answer naturally.
+
+---
+
+# 9. AI ASSISTANT KNOWLEDGE BASE
+
+Create a structured source of truth for the AI assistant.
+
+Do NOT hardcode the entire portfolio into random frontend components.
+
+Create a structured portfolio knowledge object/data source containing:
+
+### Identity
+
+Nkosinathi Ngwenya
+
+AI Engineer
+
+Pretoria, South Africa
+
+### Current Role
+
+12LINKS
+
+AI Engineer
+
+February 2026 — Present
+
+### Previous Role
+
+Somahorse AI
+
+Full-Stack Developer
+
+November 2025 — February 2026
+
+### Founder
+
+DevThrive
+
+Founder & Developer
+
+2025 — Present
+
+### Education
+
+BSc Computer Science
+
+University of Pretoria
+
+2025 — Present
+
+### Certification
+
+Data Engineering — WeThinkCode
+
+### Projects
+
+Use the verified project information supplied in the existing portfolio.
+
+### Skills
+
+Use the verified skills and capabilities.
+
+### Contact
+
+[ngwenyankhosinathi@gmail.com](mailto:ngwenyankhosinathi@gmail.com)
+
+LinkedIn
+
+GitHub
+
+Instagram
+
+The AI should use this structured information.
+
+---
+
+# 10. AI SHOULD UNDERSTAND PORTFOLIO NAVIGATION
+
+The AI should be able to answer AND navigate.
+
+Example:
+
+User:
+
+> Show me Nkosinathi's AI projects.
+
+Assistant:
+
+> Here are some of Nkosinathi's featured AI projects...
+
+Then show clickable project cards.
+
+---
+
+User:
+
+> Tell me about his experience.
+
+Assistant:
+
+> Nkosinathi currently works as an AI Engineer at 12LINKS...
+
+Then:
+
+**View Experience →**
+
+---
+
+User:
+
+> Show me his education.
+
+Then:
+
+**View Education →**
+
+---
+
+This makes the AI assistant an actual portfolio navigation system.
+
+---
+
+# 11. ADD AI SUGGESTED QUESTIONS
+
+When the chatbot opens, show beautiful suggested prompts.
+
+Examples:
+
+### Career
+
+"Give me a quick overview of Nkosinathi."
+
+### Engineering
+
+"What AI systems has he built?"
+
+### Projects
+
+"Show me his strongest AI project."
+
+### Experience
+
+"Tell me about his current role."
+
+### Education
+
+"What is he studying?"
+
+### Recruiter
+
+"Give me a recruiter-friendly summary."
+
+Make these interactive.
+
+---
+
+# 12. AI CHAT UI SHOULD LOOK PREMIUM
+
+Do not use a generic chat box.
+
+Create:
+
+* beautiful message bubbles
+* elegant AI avatar
+* typing animation
+* streaming response if possible
+* prompt suggestions
+* message timestamps if useful
+* copy response
+* retry
+* clear chat
+* navigation links
+* project cards
+* smooth transitions
+* error states
+
+When the AI is thinking:
+
+**Nkosinathi AI is thinking...**
+
+When responding:
+
+Use subtle streaming animation if technically reliable.
+
+If the API fails:
+
+> I’m having trouble connecting right now. Please try again.
+
+Do NOT leave the user staring at a broken interface.
+
+---
+
+# 13. DO NOT USE "COMING SOON" AS A SUBSTITUTE FOR CONTENT
+
+I strongly dislike the current "Coming Soon" treatment.
+
+Do NOT make the portfolio feel unfinished.
+
+Do NOT repeatedly show:
+
+> Coming Soon
+
+> Details Coming Soon
+
+> More Coming Soon
+
+This makes the portfolio feel incomplete.
+
+Instead:
+
+### If information exists
+
+Display it beautifully.
+
+### If a section genuinely has no content
+
+Do not make it a major visible section.
+
+### If something is experimental
+
+Call it:
+
+**Experiments**
+
+### If something is private
+
+Use:
+
+**Private Project**
+
+**Request Demo Access**
+
+### If something is being developed
+
+Use:
+
+**Active Development**
+
+### If something is a future feature
+
+Keep it hidden until it exists.
+
+The visitor should never feel like they are looking at an unfinished website.
+
+---
+
+# 14. EVERY PAGE MUST FEEL COMPLETE
+
+Each page should have:
+
+* strong hero
+* clear title
+* short introduction
+* relevant visual
+* complete content
+* interactive elements
+* navigation
+* footer
+* page transition
+
+For example:
+
+# AI ENGINEERING
+
+Hero visual:
+
+Abstract AI architecture.
+
+Intro:
+
+> Designing intelligent systems across generative AI, machine learning, agents, data and security.
+
+Then content.
+
+Not:
+
+> AI Engineering
+
+followed by a huge list.
+
+Make it a real page.
+
+---
+
+# 15. PAGE-SPECIFIC HERO VISUALS
+
+Give each major page its own visual identity.
+
+### Home
+
+Abstract machine intelligence.
+
+### Projects
+
+Digital product / system visualization.
+
+### AI Engineering
+
+Neural / computational architecture.
+
+### Experience
+
+Professional timeline / system progression.
+
+### AI Lab
+
+Experimental scientific visual.
+
+### Education
+
+Computational / academic visual.
+
+### About
+
+Human + technology visual.
+
+### Contact
+
+Minimal connection/network visual.
+
+Keep these visuals consistent with the overall brand.
+
+---
+
+# 16. PROJECT DETAIL PAGES
+
+When someone clicks a project, do NOT simply expand a card.
+
+Open a dedicated project page.
+
+Example:
+
+# CATTLESHIELD
+
+AI / Intelligent Systems
+
+Hero visual.
+
+Then:
+
+## Overview
+
+## The Problem
+
+## The Solution
+
+## How It Works
+
+## AI / ML
+
+## Architecture
+
+## Demo
+
+## Technical Deep Dive
+
+## Challenges
+
+## Results
+
+## GitHub
+
+Only populate sections when information is actually available.
+
+Do not fabricate.
+
+---
+
+# 17. MODERN PAGE TRANSITIONS
+
+Use subtle transitions between pages.
+
+Examples:
+
+* fade
+* slide
+* blur
+* scale
+
+Keep transitions short and professional.
+
+Do not use slow cinematic animations that make navigation annoying.
+
+---
+
+# 18. MODERN HEADER
+
+Create a premium navigation bar.
+
+Desktop:
+
+```text
+NKOSINATHI NGWENYA
+
+Work
+Engineering
+Experience
+Lab
+About
+Contact
+
+[ Ask AI ]
+[ ⌘K ]
+```
+
+Mobile:
+
+Use a polished mobile navigation.
+
+The AI assistant should always be easy to access.
+
+---
+
+# 19. COMMAND PALETTE
+
+Keep the command palette.
+
+Shortcut:
+
+**Ctrl + K**
+
+or
+
+**Cmd + K**
+
+It should allow:
+
+> Projects
+
+> AI Engineering
+
+> Experience
+
+> Education
+
+> AI Lab
+
+> Contact
+
+> Ask AI
+
+> GitHub
+
+Make it feel like a modern developer/product interface.
+
+---
+
+# 20. USE AI VISUAL LANGUAGE THROUGHOUT
+
+Create a coherent visual language:
+
+* subtle data lines
+* neural connection motifs
+* grid systems
+* abstract nodes
+* system diagrams
+* flowing data
+* model-like visualizations
+* subtle particle effects
+* technical metadata
+* system status indicators
+
+But use them sparingly.
+
+The website should feel **intelligent**, not noisy.
+
+---
+
+# 21. DO NOT MAKE THE SITE LOOK LIKE A TEMPLATE
+
+Avoid:
+
+* generic portfolio cards
+* default Tailwind-looking layouts
+* random gradients
+* giant text everywhere
+* excessive rounded rectangles
+* basic navbar
+* plain white sections
+* repetitive cards
+* skill progress bars
+* stock photos
+* fake statistics
+* fake testimonials
+* fake awards
+
+Every section should have a reason to exist.
+
+---
+
+# 22. ADD REAL VISUAL DEPTH
+
+The current site feels flat.
+
+Improve:
+
+* background layers
+* depth
+* cards
+* borders
+* shadows
+* subtle lighting
+* visual hierarchy
+* section transitions
+* imagery
+* typography
+* spacing
+
+Use visual depth without turning everything into glassmorphism.
+
+---
+
+# 23. RESPONSIVE DESIGN
+
+The redesign must work beautifully on:
+
+* mobile
+* tablet
+* laptop
+* large desktop
+
+On mobile:
+
+Do NOT simply stack the desktop layout.
+
+Adapt the experience.
+
+Project cards should remain beautiful.
+
+Hero visuals should remain impactful.
+
+AI assistant should be easy to use.
+
+Tabs should be touch-friendly.
+
+Navigation should be excellent.
+
+---
+
+# 24. FINAL REQUIREMENT — MAKE IT FEEL FINISHED
+
+When you're done, browse through the website as if you are:
+
+### A CTO
+
+Would this convince me that Nkosinathi understands engineering?
+
+### A recruiter
+
+Can I understand his career quickly?
+
+### A startup founder
+
+Does this person look capable of building products?
+
+### A senior engineer
+
+Is there enough technical depth?
+
+### A normal visitor
+
+Is the site beautiful and easy to understand?
+
+Fix anything that fails those tests.
+
+---
+
+# MOST IMPORTANT
+
+I do NOT want:
+
+> A long one-page portfolio with sections.
+
+I want:
+
+> **A modern multi-page AI Engineer product experience.**
+
+Every major category has its own page.
+
+Every page has its own content.
+
+Every page has its own visual identity.
+
+The homepage is curated.
+
+The projects have deep-dive pages.
+
+The AI assistant actually responds.
+
+The visual design is premium.
+
+The portfolio feels complete.
+
+There should be no unnecessary "Coming Soon" content.
+
+The website should look like someone who actually builds AI products designed and built their own personal AI product.
+
+Take the current implementation and **upgrade it substantially rather than making small cosmetic changes.**
+
+Before finishing, test every navigation item, every project page, the AI assistant, every form, every responsive breakpoint, and every major interaction.
+
+The final quality bar is:
+
+**BEST-IN-CLASS MODERN AI ENGINEER PORTFOLIO.**
